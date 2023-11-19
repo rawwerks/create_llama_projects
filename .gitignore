@@ -146,3 +146,5 @@ Pipfile.lock
 
 # pyright
 pyrightconfig.json
+multi-document-agent/frontend/package-lock.json
+multi-document-agent/backend/poetry.lock
